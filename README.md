@@ -21,16 +21,16 @@ function (numbers){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
+| Input          | Output |
+| [1, 2, 3]      |   2    |
+|[0, -1, -2]     |   -1   | 
+|[10, 15, 20, 25]|   17.5 | 
 |       |        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes an array of numbers as an input and returns quotient of the sum of the numbers in the array divided by the amount of number in the array.</td>
   </tr>
 </table>
 
